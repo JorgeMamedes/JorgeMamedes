@@ -1,16 +1,25 @@
-## Hi there 👋
+## # Olá, eu sou o Jorge Mamedes 👋
 
-<!--
-**JorgeMamedes/JorgeMamedes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por transformar dados em insights valiosos.  
+Atualmente, focado em desenvolver habilidades em **Excel**,**Power BI**, **SQL** e **Python** para análise de dados e automação.
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📊 Entusiasta em análise de dados e visualização
+- 💻 Estudante dedicado em ferramentas de dados
+- 🎯 Buscando oportunidades para aplicar conhecimento e crescer na área
+- 🤝 Aberto a colaborações e projetos desafiadores
+
+## Ferramentas e Tecnologias
+
+- 🧮 Excel 
+- 🐍 Python 
+- 🗃️ SQL 
+- 📈 Power BI
+
+## Contato
+
+- 📧 jorgemamdes97@gmail.com 
+ 🔗 [LinkedIn](https://www.linkedin.com/in/jorge-mamedes-da-silva-madelana-5009a32b8)  
+
+---
